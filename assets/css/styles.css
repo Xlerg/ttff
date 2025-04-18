@@ -54,7 +54,7 @@ h4{
 /**header**/
 .header{
     height: 100vh;
-    background-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0)), url(/assets/img/panel.webp);
+    background-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0)), url(../assets/img/panel.webp);
     background-size: cover;
     background-position: center center;
 }
@@ -150,7 +150,7 @@ h4{
     position: absolute;
     left: 0;
     right: 0;
-    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(/assets/img/servicios.webp);
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(../assets/img/servicios.webp);
     background-size: cover;
     justify-content: center;
     margin-left: -10rem;
